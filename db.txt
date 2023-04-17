@@ -1,0 +1,5 @@
+DEXP Aquilon#4#128#Windows 11 Pro#серебристый#15199
+ASUS ROG Zephyrus duo#32#2048#Windows 11 Pro#чёрный#714473
+Honor MagicBook X 15 i5#8#512#Ubuntu#серый#49999
+Apple MacBook Air 13.6#16#512#macOS#чёрный#151608
+Dell Vostro 5410#8#512#Windows Home#зелёный#87712
