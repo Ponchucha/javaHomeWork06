@@ -176,6 +176,7 @@ public class homework {
             else{
                 System.out.println("Прощайте!");
             }
+            input.close();
         }
     }
 }
