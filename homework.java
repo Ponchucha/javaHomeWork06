@@ -44,7 +44,7 @@ public class homework {
     public static void main(String[] args) {
         File file = new File("db.txt");
         String device = "";
-        ArrayList <Laptop> catalogue  = new ArrayList<>();
+        Set <Laptop> catalogue  = new HashSet<>();
         try {
             BufferedReader reader = new BufferedReader(new FileReader(file));
             while((device = reader.readLine()) != null){
@@ -71,7 +71,7 @@ public class homework {
             choice = input.nextInt();
             switch (choice) {
                 case 1:
-                    System.out.print("Введите минимальное и максимальное значение ОЗУ:\nОт: ");
+                    System.out.print("Введите минимальное и максимальное значение ОЗУ (в Гб):\nОт: ");
                     min = input.nextInt();
                     System.out.print("До: ");
                     max = input.nextInt();
